@@ -1,7 +1,7 @@
 {
   "name": "spotify-wrapper",
   "version": "1.0.0",
-  "description": "biblioteca de JS com TDD.",
+  "description": "Um wrapper para trabalhar com Spotify Web API.",
   "main": "index.js",
   "scripts": {
     "lint": "./node_modules/.bin/eslint src/*.js",
@@ -21,7 +21,7 @@
     "type": "git",
     "url": "git+https://github.com/edipojs/spotify-wrapper.git"
   },
-  "keywords": ["js", "tdd", "library", "fizz", "buzz", "fizz-buzz"],
+  "keywords": ["js", "tdd", "library", "spotify", "spotify-wrapper"],
   "author": "Édipo Juan <edipojs@gmail.com>",
   "license": "MIT",
   "bugs": {
